@@ -1,0 +1,367 @@
+{
+  "categories": [
+    {
+      "id": "coffee",
+      "name": "Coffee",
+      "items": [
+        {
+          "id": "espresso",
+          "name": "Espresso",
+          "description": "Rich and bold single shot",
+          "price": 120,
+          "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "doppio",
+          "name": "Doppio",
+          "description": "Double shot espresso",
+          "price": 150,
+          "image": "https://images.pexels.com/photos/983847/pexels-photo-983847.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "affogato",
+          "name": "Affogato",
+          "description": "Espresso over vanilla ice cream",
+          "price": 200,
+          "image": "https://images.pexels.com/photos/851555/pexels-photo-851555.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "macchiato",
+          "name": "Macchiato",
+          "description": "Hot or Iced with milk foam",
+          "price": 165,
+          "image": "https://images.pexels.com/photos/1557547/pexels-photo-1557547.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "americano",
+          "name": "Americano",
+          "description": "Espresso with hot water",
+          "price": 140,
+          "image": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "cappuccino",
+          "name": "Cappuccino",
+          "description": "Espresso with steamed milk and foam",
+          "price": 175,
+          "image": "https://images.pexels.com/photos/302896/pexels-photo-302896.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "latte",
+          "name": "Latte",
+          "description": "Smooth espresso with steamed milk",
+          "price": 180,
+          "image": "https://images.pexels.com/photos/324028/pexels-photo-324028.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "mocha",
+          "name": "Mocha",
+          "description": "Chocolate and espresso blend",
+          "price": 195,
+          "image": "https://images.pexels.com/photos/1251175/pexels-photo-1251175.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "cold-brew",
+          "name": "Cold Brew",
+          "description": "Smooth cold-extracted coffee",
+          "price": 160,
+          "image": "https://images.pexels.com/photos/1251176/pexels-photo-1251176.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "frappuccino",
+          "name": "Frappuccino",
+          "description": "Blended iced coffee drink",
+          "price": 220,
+          "image": "https://images.pexels.com/photos/1251177/pexels-photo-1251177.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
+    },
+    {
+      "id": "tea-lemonade",
+      "name": "Tea & Lemonade",
+      "items": [
+        {
+          "id": "hot-tea",
+          "name": "Hot Tea",
+          "description": "Premium Ceylon black tea",
+          "price": 160,
+          "image": "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "lemon-iced-tea",
+          "name": "Lemon Iced Tea",
+          "description": "Refreshing iced tea with fresh lemon",
+          "price": 170,
+          "image": "https://images.pexels.com/photos/1540258/pexels-photo-1540258.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "green-tea",
+          "name": "Green Tea",
+          "description": "Antioxidant-rich Japanese sencha",
+          "price": 180,
+          "image": "https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "pink-lemonade",
+          "name": "Pink Lemonade",
+          "description": "Sweet and tangy with fresh berries",
+          "price": 190,
+          "image": "https://images.pexels.com/photos/1233319/pexels-photo-1233319.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "chai-latte",
+          "name": "Chai Latte",
+          "description": "Spiced tea with steamed milk",
+          "price": 185,
+          "image": "https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "matcha-latte",
+          "name": "Matcha Latte",
+          "description": "Japanese green tea powder with milk",
+          "price": 210,
+          "image": "https://images.pexels.com/photos/4226876/pexels-photo-4226876.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
+    },
+    {
+      "id": "smoothies",
+      "name": "Smoothies",
+      "items": [
+        {
+          "id": "mango-smoothie",
+          "name": "Mango Smoothie",
+          "description": "Fresh mango with coconut milk",
+          "price": 220,
+          "image": "https://images.pexels.com/photos/5945841/pexels-photo-5945841.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "berry-blast",
+          "name": "Berry Blast",
+          "description": "Mixed berries with yogurt",
+          "price": 240,
+          "image": "https://images.pexels.com/photos/1346347/pexels-photo-1346347.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "green-goddess",
+          "name": "Green Goddess",
+          "description": "Spinach, apple, and banana blend",
+          "price": 260,
+          "image": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "tropical-paradise",
+          "name": "Tropical Paradise",
+          "description": "Pineapple, mango, and passion fruit",
+          "price": 250,
+          "image": "https://images.pexels.com/photos/1346347/pexels-photo-1346347.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "protein-power",
+          "name": "Protein Power",
+          "description": "Banana, peanut butter, and protein powder",
+          "price": 280,
+          "image": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
+    },
+    {
+      "id": "pastries",
+      "name": "Pastries & Baked Goods",
+      "items": [
+        {
+          "id": "croissant",
+          "name": "Butter Croissant",
+          "description": "Flaky, buttery French pastry",
+          "price": 180,
+          "image": "https://images.pexels.com/photos/2135677/pexels-photo-2135677.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "muffin",
+          "name": "Blueberry Muffin",
+          "description": "Fresh blueberries in soft muffin",
+          "price": 160,
+          "image": "https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "danish",
+          "name": "Cheese Danish",
+          "description": "Sweet pastry with cream cheese",
+          "price": 200,
+          "image": "https://images.pexels.com/photos/1721951/pexels-photo-1721951.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "bagel",
+          "name": "Everything Bagel",
+          "description": "Toasted bagel with cream cheese",
+          "price": 170,
+          "image": "https://images.pexels.com/photos/4109743/pexels-photo-4109743.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "scone",
+          "name": "Cranberry Scone",
+          "description": "Buttery scone with dried cranberries",
+          "price": 190,
+          "image": "https://images.pexels.com/photos/4109744/pexels-photo-4109744.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "name": "Sandwiches & Wraps",
+      "items": [
+        {
+          "id": "club-sandwich",
+          "name": "Club Sandwich",
+          "description": "Turkey, bacon, lettuce, tomato on toasted bread",
+          "price": 320,
+          "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "grilled-cheese",
+          "name": "Grilled Cheese",
+          "description": "Melted cheese on buttered sourdough",
+          "price": 250,
+          "image": "https://images.pexels.com/photos/4518843/pexels-photo-4518843.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "chicken-wrap",
+          "name": "Chicken Caesar Wrap",
+          "description": "Grilled chicken, romaine, parmesan in tortilla",
+          "price": 290,
+          "image": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "veggie-wrap",
+          "name": "Veggie Wrap",
+          "description": "Fresh vegetables and hummus in spinach tortilla",
+          "price": 270,
+          "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "blt-sandwich",
+          "name": "BLT Sandwich",
+          "description": "Bacon, lettuce, tomato on toasted bread",
+          "price": 280,
+          "image": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "name": "Salads & Bowls",
+      "items": [
+        {
+          "id": "caesar-salad",
+          "name": "Caesar Salad",
+          "description": "Romaine lettuce, croutons, parmesan, caesar dressing",
+          "price": 280,
+          "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "greek-salad",
+          "name": "Greek Salad",
+          "description": "Mixed greens, feta, olives, tomatoes",
+          "price": 300,
+          "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "quinoa-bowl",
+          "name": "Quinoa Power Bowl",
+          "description": "Quinoa, roasted vegetables, avocado",
+          "price": 320,
+          "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "chicken-salad",
+          "name": "Grilled Chicken Salad",
+          "description": "Grilled chicken breast over mixed greens",
+          "price": 340,
+          "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "name": "Breakfast",
+      "items": [
+        {
+          "id": "pancakes",
+          "name": "Fluffy Pancakes",
+          "description": "Stack of three pancakes with maple syrup",
+          "price": 250,
+          "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "french-toast",
+          "name": "French Toast",
+          "description": "Thick-cut brioche with cinnamon",
+          "price": 270,
+          "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "eggs-benedict",
+          "name": "Eggs Benedict",
+          "description": "Poached eggs on English muffin with hollandaise",
+          "price": 320,
+          "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "avocado-toast",
+          "name": "Avocado Toast",
+          "description": "Smashed avocado on sourdough with lime",
+          "price": 240,
+          "image": "https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "breakfast-burrito",
+          "name": "Breakfast Burrito",
+          "description": "Scrambled eggs, cheese, potatoes in tortilla",
+          "price": 290,
+          "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "name": "Desserts",
+      "items": [
+        {
+          "id": "chocolate-cake",
+          "name": "Chocolate Cake",
+          "description": "Rich chocolate layer cake",
+          "price": 220,
+          "image": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "cheesecake",
+          "name": "New York Cheesecake",
+          "description": "Classic creamy cheesecake",
+          "price": 240,
+          "image": "https://images.pexels.com/photos/140831/pexels-photo-140831.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "tiramisu",
+          "name": "Tiramisu",
+          "description": "Italian coffee-flavored dessert",
+          "price": 260,
+          "image": "https://images.pexels.com/photos/140831/pexels-photo-140831.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "ice-cream",
+          "name": "Artisan Ice Cream",
+          "description": "Vanilla, chocolate, or strawberry",
+          "price": 180,
+          "image": "https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+          "id": "cookies",
+          "name": "Fresh Baked Cookies",
+          "description": "Chocolate chip or oatmeal raisin",
+          "price": 120,
+          "image": "https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+      ]
+    }
+  ]
+}

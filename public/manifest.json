@@ -1,0 +1,27 @@
+{
+  "name": "Dylan Cafe Ordering",
+  "short_name": "Dylan Cafe",
+  "description": "Dylan Cafe Tablet Ordering System - PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d84315",
+  "orientation": "any",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["food", "business"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
